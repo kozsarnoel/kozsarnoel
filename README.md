@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kozsarnoel.github.io/](https://kozsarnoel.github.io/)
 
-- 💬 Ask me about **HTML,CSS,Python,Javascript,Linux,Git**
+- 💬 Ask me about **HTML, CSS, Python, Javascript, Linux, Git**
 
 - 📫 How to reach me **kozsarnoeldev@gmail.com**
 
